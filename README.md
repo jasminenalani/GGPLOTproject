@@ -8,5 +8,5 @@ The premise of my project is to predict & analyze Women’s Empowerment Index sc
 - The wei dataset, which stands for Women’s Empowerment Index, is the first dataset I’m going to be using. It is sourced from Human Development Reports, and can be accessed at the link below. (https://www.kaggle.com/datasets/iamsouravbanerjee/women-empowerment-index). It contains information on the WEI scores for 114 countries.
 
 - The second dataset I’m interested in using is the led dataset, which stands for Life Exptectancy Dataset, and is sourced from the World Health Organization. This dataset can be accessed at the link below. (https://www.kaggle.com/datasets/augustus0498/life-expectancy-who/data). This dataset contains important health-centered data on every country in the world.
-- 
+  
 I’d like to join the two datasets by the common variable “Country”, and analyze WEI scores by health factors related to the patient’s country. I am interested in creating several maps that will visualize WEI scores against other health-based factors.
